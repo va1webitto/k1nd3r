@@ -1,0 +1,3 @@
+makefile
+requests==2.26.0
+flake8
